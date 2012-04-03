@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>remove_file '${1:public/index.html}'</string>
+	<key>name</key>
+	<string>remove_file</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>rm</string>
+	<key>uuid</key>
+	<string>9ED95F98-86F9-4F9B-8AD7-4F13E42A47E1</string>
+</dict>
+</plist>

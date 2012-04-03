@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>route "${1:match '${2:/auth/:provider/callback}', :to =&gt; '${3:sessions#callback}'}"
+</string>
+	<key>name</key>
+	<string>route</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>route</string>
+	<key>uuid</key>
+	<string>97A0D8F9-A667-4085-BD44-41D35FA42E60</string>
+</dict>
+</plist>

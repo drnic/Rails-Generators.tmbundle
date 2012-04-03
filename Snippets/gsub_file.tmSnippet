@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>gsub_file "${1:path/to/file}", ${2:/${3:regex}/}, "${10:replace with this}"</string>
+	<key>name</key>
+	<string>gsub_file</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>gsub</string>
+	<key>uuid</key>
+	<string>0C05F3B5-8B90-4897-ADA9-37A5F9B6B497</string>
+</dict>
+</plist>

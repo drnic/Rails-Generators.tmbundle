@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>file '${1:public/500.html}', &lt;&lt;-${5:EOS}
+	$0
+$5</string>
+	<key>name</key>
+	<string>file</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>file</string>
+	<key>uuid</key>
+	<string>84DF85A7-3844-43FC-8AFA-F24FC309C0DA</string>
+</dict>
+</plist>

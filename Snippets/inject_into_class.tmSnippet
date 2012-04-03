@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>inject_into_class "${1:app/controllers/application_controller.rb}", ${2:ApplicationController} do
+	"$0"
+end
+</string>
+	<key>name</key>
+	<string>inject_into_class</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>inj</string>
+	<key>uuid</key>
+	<string>7B336293-4D19-4FD2-B488-9CE893E46D72</string>
+</dict>
+</plist>

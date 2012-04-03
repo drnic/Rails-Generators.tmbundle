@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Rails Generators</string>
+	<key>ordering</key>
+	<array>
+		<string>4BD90D30-68F5-4A63-A321-FADA10CD6AE5</string>
+		<string>520686E5-E437-442D-9140-4A8BDBCD5AC8</string>
+		<string>35386745-94D4-4E7C-828A-BA03AE5676F5</string>
+		<string>2FD7EB85-1DC3-4164-8500-8508BC4127C7</string>
+		<string>84DF85A7-3844-43FC-8AFA-F24FC309C0DA</string>
+		<string>33245602-4735-4E4A-BAC3-C2C0C38B4B9B</string>
+		<string>97A0D8F9-A667-4085-BD44-41D35FA42E60</string>
+		<string>9ED95F98-86F9-4F9B-8AD7-4F13E42A47E1</string>
+		<string>7C9BADFE-0A1B-4E05-9E19-BBE1A8833452</string>
+		<string>0C05F3B5-8B90-4897-ADA9-37A5F9B6B497</string>
+		<string>7B336293-4D19-4FD2-B488-9CE893E46D72</string>
+		<string>DBB6C4F2-9F2A-4282-BD9A-11638F5CBF9D</string>
+	</array>
+	<key>uuid</key>
+	<string>247BD050-1FB7-48A0-97C4-FA8607837273</string>
+</dict>
+</plist>

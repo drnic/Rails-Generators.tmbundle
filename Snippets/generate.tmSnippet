@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>generate "${1:model Product name:string}"</string>
+	<key>name</key>
+	<string>generate</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>gen</string>
+	<key>uuid</key>
+	<string>7C9BADFE-0A1B-4E05-9E19-BBE1A8833452</string>
+</dict>
+</plist>

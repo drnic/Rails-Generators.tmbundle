@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>initializer "${2:${1:library}.rb}", &lt;&lt;-RUBY
+  $0
+RUBY</string>
+	<key>name</key>
+	<string>initializer</string>
+	<key>scope</key>
+	<string>source.ruby.rails.generators</string>
+	<key>tabTrigger</key>
+	<string>init</string>
+	<key>uuid</key>
+	<string>DBB6C4F2-9F2A-4282-BD9A-11638F5CBF9D</string>
+</dict>
+</plist>
