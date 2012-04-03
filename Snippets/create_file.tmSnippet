@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>craete_file '${1:public/500.html}', &lt;&lt;-${5:EOS}
+	<string>create_file '${1:public/500.html}', &lt;&lt;-${5:EOS}
 	$0
 $5</string>
 	<key>name</key>
